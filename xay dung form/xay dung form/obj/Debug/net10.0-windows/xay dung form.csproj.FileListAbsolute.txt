@@ -1,0 +1,16 @@
+C:\Users\Admin\source\idk\xay dung form\xay dung form\bin\Debug\net10.0-windows\xay dung form.exe
+C:\Users\Admin\source\idk\xay dung form\xay dung form\bin\Debug\net10.0-windows\xay dung form.deps.json
+C:\Users\Admin\source\idk\xay dung form\xay dung form\bin\Debug\net10.0-windows\xay dung form.runtimeconfig.json
+C:\Users\Admin\source\idk\xay dung form\xay dung form\bin\Debug\net10.0-windows\xay dung form.dll
+C:\Users\Admin\source\idk\xay dung form\xay dung form\bin\Debug\net10.0-windows\xay dung form.pdb
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay_dung_form.Form1.resources
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.csproj.GenerateResource.cache
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.AssemblyInfo.cs
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.dll
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\refint\xay dung form.dll
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.pdb
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\xay dung form.genruntimeconfig.cache
+C:\Users\Admin\source\idk\xay dung form\xay dung form\obj\Debug\net10.0-windows\ref\xay dung form.dll
