@@ -1,0 +1,33 @@
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT_KẾ_RESPONSIVE.Form1.resources
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.csproj.GenerateResource.cache
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.AssemblyInfo.cs
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.exe
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.deps.json
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.runtimeconfig.json
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.dll
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.pdb
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.dll
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\refint\THIẾT KẾ RESPONSIVE.dll
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.pdb
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.genruntimeconfig.cache
+C:\Users\Admin\source\idk\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\ref\THIẾT KẾ RESPONSIVE.dll
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.exe
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.deps.json
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.runtimeconfig.json
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.dll
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\bin\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.pdb
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT_KẾ_RESPONSIVE.Form1.resources
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.csproj.GenerateResource.cache
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.GeneratedMSBuildEditorConfig.editorconfig
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.AssemblyInfoInputs.cache
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.AssemblyInfo.cs
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.csproj.CoreCompileInputs.cache
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.dll
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\refint\THIẾT KẾ RESPONSIVE.dll
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.pdb
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THIẾT KẾ RESPONSIVE.genruntimeconfig.cache
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\ref\THIẾT KẾ RESPONSIVE.dll
+D:\D19-CNPM3\code\bài tập ltnet\THIẾT KẾ RESPONSIVE\THIẾT KẾ RESPONSIVE\obj\Debug\net10.0-windows\THI_T K_.BC3B23FB.Up2Date
