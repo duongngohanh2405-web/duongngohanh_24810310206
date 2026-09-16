@@ -1,0 +1,16 @@
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM_ĐẶT_HÀNG.Form1.resources
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.csproj.GenerateResource.cache
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.AssemblyInfo.cs
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\bin\Debug\net10.0-windows\FORM ĐẶT HÀNG.exe
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\bin\Debug\net10.0-windows\FORM ĐẶT HÀNG.deps.json
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\bin\Debug\net10.0-windows\FORM ĐẶT HÀNG.runtimeconfig.json
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\bin\Debug\net10.0-windows\FORM ĐẶT HÀNG.dll
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\bin\Debug\net10.0-windows\FORM ĐẶT HÀNG.pdb
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.dll
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\refint\FORM ĐẶT HÀNG.dll
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.pdb
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\FORM ĐẶT HÀNG.genruntimeconfig.cache
+C:\Users\Admin\source\idk\FORM ĐẶT HÀNG\FORM ĐẶT HÀNG\obj\Debug\net10.0-windows\ref\FORM ĐẶT HÀNG.dll
