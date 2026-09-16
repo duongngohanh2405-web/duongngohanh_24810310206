@@ -1,0 +1,16 @@
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM_CALCULATOR.Form1.resources
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.csproj.GenerateResource.cache
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.AssemblyInfo.cs
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\bin\Debug\net10.0-windows\FORM CALCULATOR.exe
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\bin\Debug\net10.0-windows\FORM CALCULATOR.deps.json
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\bin\Debug\net10.0-windows\FORM CALCULATOR.runtimeconfig.json
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\bin\Debug\net10.0-windows\FORM CALCULATOR.dll
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\bin\Debug\net10.0-windows\FORM CALCULATOR.pdb
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.dll
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\refint\FORM CALCULATOR.dll
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.pdb
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\FORM CALCULATOR.genruntimeconfig.cache
+C:\Users\Admin\source\idk\FORM CALCULATOR\FORM CALCULATOR\obj\Debug\net10.0-windows\ref\FORM CALCULATOR.dll
