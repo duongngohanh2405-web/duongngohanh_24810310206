@@ -1,0 +1,15 @@
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.exe
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.deps.json
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.runtimeconfig.json
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.dll
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.pdb
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.AssemblyInfoInputs.cache
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.AssemblyInfo.cs
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.csproj.CoreCompileInputs.cache
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.dll
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\refint\AutoSpeed.dll
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.pdb
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.genruntimeconfig.cache
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\ref\AutoSpeed.dll
+D:\D19-CNPM3\code\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.csproj.Up2Date
