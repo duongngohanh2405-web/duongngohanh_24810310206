@@ -1,3 +1,4 @@
+Bài Kiểm Tra số 1.
 Câu 1: Trình bày sự khác nhau giữa Value Types (Kiểu giá trị) và Reference Types (Kiểu tham chiếu) trong C# về cơ chế lưu trữ vùng nhớ (Stack vs Heap).
 Trong C#, kiểu dữ liệu được chia thành hai nhóm chính là Value Type và Reference Type.
 1. Value Type – Kiểu giá trị
@@ -92,7 +93,11 @@ Kết luận
 virtual → lớp cha cho phép ghi đè.
 override → lớp con ghi đè phương thức của lớp cha.
 Hai từ khóa kết hợp với nhau giúp C# thực hiện đa hình động.
+
+
 Câu 4: Tại sao thành phần static trong Class không thể truy xuất thông qua Object Instance?
 Trong C#, từ khóa static dùng để khai báo một thành phần thuộc về lớp (Class) chứ không thuộc về từng đối tượng (Object) được tạo ra từ lớp đó.
-Khi một thành phần được khai báo là static, nó chỉ có một bản duy nhất và được dùng chung cho tất cả các đối tượng thuộc lớp đó. Vì vậy, thành phần static được truy xuất thông qua tên lớp, không phải thông qua Object Instance.
+Khi một thành phần được khai báo là static, nó chỉ có một bản duy nhất và được dùng chung cho tất cả các đối tượng thuộc lớp đó. Vì vậy, thành phần static
+Kết luận: Thành phần static không thuộc về một Object cụ thể mà thuộc về Class, chỉ có một bản dùng chung cho toàn bộ Class. Vì vậy, nó được truy xuất bằng tên Class, còn thành phần không static được truy xuất thông qua Object Instance.
+được truy xuất thông qua tên lớp, không phải thông qua Object Instance.
 
