@@ -1,4 +1,5 @@
-# BÀI KIỂM TRA C# - 3 BÀI
+# DƯƠNG NGÔ HẠNH _ 24810310206 _ Bài Kiểm Tra số 1
+
 
 ## Bài 1
 Lý thuyết C# trong `Bai01/Bai01_LyThuyet.md`.
