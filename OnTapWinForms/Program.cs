@@ -575,6 +575,7 @@ public sealed class MainForm : Form
         {
             Dock = DockStyle.Fill,
             Orientation = Orientation.Vertical,
+            Size = new Size(900, 600),
             SplitterDistance = 350,
             FixedPanel = FixedPanel.Panel1,
             Panel1MinSize = 300,
@@ -585,7 +586,6 @@ public sealed class MainForm : Form
         var grid = MakeGrid();
         var source = new BindingSource { DataSource = orders };
         grid.DataSource = source;
-        grid.Columns.Clear();
 
         var txtCustomer = MakeTextBox("Tên khách hàng");
         var txtAddress = MakeTextBox("Địa chỉ giao hàng");
@@ -739,8 +739,7 @@ public sealed class MainForm : Form
 
         split.Panel1.Controls.Add(formPanel);
         split.Panel2.Controls.Add(grid);
-        Controls.Add(split);
-        Controls.Add(statusStrip);
+        statusStrip.Dock = DockStyle.Bottom;
 
         KeyPreview = true;
         KeyDown += (_, e) =>
