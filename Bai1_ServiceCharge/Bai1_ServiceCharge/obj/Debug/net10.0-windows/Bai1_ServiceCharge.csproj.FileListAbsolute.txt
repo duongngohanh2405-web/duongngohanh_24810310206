@@ -1,0 +1,17 @@
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\bin\Debug\net10.0-windows\Bai1_ServiceCharge.exe
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\bin\Debug\net10.0-windows\Bai1_ServiceCharge.deps.json
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\bin\Debug\net10.0-windows\Bai1_ServiceCharge.runtimeconfig.json
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\bin\Debug\net10.0-windows\Bai1_ServiceCharge.dll
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\bin\Debug\net10.0-windows\Bai1_ServiceCharge.pdb
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.Form1.resources
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.csproj.GenerateResource.cache
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.GeneratedMSBuildEditorConfig.editorconfig
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.AssemblyInfoInputs.cache
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.AssemblyInfo.cs
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.csproj.CoreCompileInputs.cache
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.dll
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\refint\Bai1_ServiceCharge.dll
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.pdb
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_ServiceCharge.genruntimeconfig.cache
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\ref\Bai1_ServiceCharge.dll
+D:\D19-CNPM3\code\Bai1_ServiceCharge\Bai1_ServiceCharge\obj\Debug\net10.0-windows\Bai1_Ser.25925D42.Up2Date

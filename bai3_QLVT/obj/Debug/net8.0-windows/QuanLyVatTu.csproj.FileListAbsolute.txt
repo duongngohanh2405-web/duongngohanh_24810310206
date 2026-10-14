@@ -1,0 +1,15 @@
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\bin\Debug\net8.0-windows\QuanLyVatTu.exe
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\bin\Debug\net8.0-windows\QuanLyVatTu.deps.json
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\bin\Debug\net8.0-windows\QuanLyVatTu.runtimeconfig.json
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\bin\Debug\net8.0-windows\QuanLyVatTu.dll
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\bin\Debug\net8.0-windows\QuanLyVatTu.pdb
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.AssemblyInfoInputs.cache
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.AssemblyInfo.cs
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.csproj.CoreCompileInputs.cache
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.dll
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\refint\QuanLyVatTu.dll
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.pdb
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVatTu.genruntimeconfig.cache
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\ref\QuanLyVatTu.dll
+D:\D19-CNPM3\code\bài tập 14+10\bai3_QLVT\obj\Debug\net8.0-windows\QuanLyVa.6E15CABF.Up2Date

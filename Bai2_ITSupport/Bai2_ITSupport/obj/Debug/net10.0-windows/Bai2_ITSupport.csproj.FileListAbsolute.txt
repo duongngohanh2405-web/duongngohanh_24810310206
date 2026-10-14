@@ -1,0 +1,34 @@
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.exe
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.deps.json
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.runtimeconfig.json
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.pdb
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.Form1.resources
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.csproj.GenerateResource.cache
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.AssemblyInfoInputs.cache
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.AssemblyInfo.cs
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.csproj.CoreCompileInputs.cache
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\refint\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.pdb
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.genruntimeconfig.cache
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\ref\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITS.B9FE4237.Up2Date
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.exe
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.deps.json
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.runtimeconfig.json
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\bin\Debug\net10.0-windows\Bai2_ITSupport.pdb
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.Form1.resources
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.csproj.GenerateResource.cache
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.AssemblyInfoInputs.cache
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.AssemblyInfo.cs
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.csproj.CoreCompileInputs.cache
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\refint\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.pdb
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITSupport.genruntimeconfig.cache
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\ref\Bai2_ITSupport.dll
+D:\D19-CNPM3\code\bài tập 14+10\Bai2_ITSupport\Bai2_ITSupport\obj\Debug\net10.0-windows\Bai2_ITS.B9FE4237.Up2Date
