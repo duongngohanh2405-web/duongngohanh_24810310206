@@ -5,7 +5,7 @@
 - **Mã số sinh viên:** 24810310206
 - **Lớp:** D19-CNPM3
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** bài tập thực hành 12/11/2026
+- **Tên bài tập:** bài tập thực hành 11/12/2026
 
 ---
 
