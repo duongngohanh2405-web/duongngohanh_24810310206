@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Bai5_2</RootNamespace>
+    <!-- Chạy qua dotnet.exe thay vì file .exe riêng (tránh bị Application Control chặn) -->
+    <UseAppHost>false</UseAppHost>
+  </PropertyGroup>
+
+</Project>
