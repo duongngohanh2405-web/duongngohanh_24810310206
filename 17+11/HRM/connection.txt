@@ -1,0 +1,3 @@
+# Mặc định chương trình TỰ DÒ SQL Server (., .\SQLEXPRESS, (localdb)\MSSQLLocalDB, localhost\SQLEXPRESS).
+# Nếu tự dò không được, bỏ dấu # ở đầu dòng dưới và sửa Server cho đúng tên server trong SSMS (chỉ 1 dấu \):
+# Server=.\SQLEXPRESS;Database=HRMDB;Integrated Security=True;TrustServerCertificate=True;
