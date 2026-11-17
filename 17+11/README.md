@@ -1,9 +1,9 @@
 # BÁO CÁO ĐỒ ÁN MÔN HỌC
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-* **Họ và tên sinh viên:** [Điền họ tên của bạn]
-* **Mã sinh viên:** [Điền mã sinh viên]
-* **Lớp / Khóa:** [Điền tên lớp / khóa]
+* **Họ và tên sinh viên:** Dương Ngô Hạnh
+* **Mã sinh viên:** 24810310206
+* **Lớp / Khóa:** D19-CNPM3
 * **Tên đề tài:** [Điền tên đề tài, ví dụ: Hệ thống Bán hàng Siêu thị Mini / Quản lý Nhân sự Tính lương]
 
 ---
