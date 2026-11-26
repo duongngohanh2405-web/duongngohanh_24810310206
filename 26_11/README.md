@@ -17,11 +17,11 @@
 
 ### ảnh 3
 
-![hinh anh]](anh6_6/03_transaction_screen.png)
+![hinh anh](anh6_6/03_transaction_screen.png)
 
 ### ảnh 4
 
-![hinh anh]](anh6_6/04_report_screen.png)
+![hinh anh](anh6_6/04_report_screen.png)
 
 ### ảnh 5
 
