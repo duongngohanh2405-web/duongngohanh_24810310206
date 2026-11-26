@@ -1,27 +1,27 @@
-# Hệ thống điều hành mạng lưới cây ATM - Ngân hàng
+
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
 
 - **Họ và tên sinh viên:** Dương Ngô Hạnh
-- **Mã sinh viên:** [Điền mã sinh viên]
+- **Mã sinh viên:** 24810310206
 - **Lớp / Khóa:** D19-CNPM3 / 2024–2029
 
 ### Bài 6.6
 ### ảnh 1
 
-![Màn hình chính](anh6_6/01_main_screen.png)
+(anh6_6/01_main_screen.png)
 
 ### ảnh 2
 
-![Màn hình CRUD](anh6_6/02_crud_screen.png)
+(anh6_6/02_crud_screen.png)
 
 ### ảnh 3
 
-![Màn hình nghiệp vụ đối soát](anh6_6/03_transaction_screen.png)
+(anh6_6/03_transaction_screen.png)
 
 ### ảnh 4
 
-![Màn hình thống kê](anh6_6/04_report_screen.png)
+(anh6_6/04_report_screen.png)
 
 ### ảnh 5
 
